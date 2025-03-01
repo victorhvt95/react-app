@@ -6,9 +6,7 @@ import {
   Routes,
 } from "react-router-dom";
 import viteLogo from "/vite.svg";
-import { LazyPage1 } from "../pages/LAzyPage1";
-import { LazyPage2 } from "../pages/LazyPage2";
-import { LazyPage3 } from "../pages/LazyPage3";
+import { LazyPage1, LazyPage2, LazyPage3 } from "../pages";
 
 export const Navigation = () => {
   return (
