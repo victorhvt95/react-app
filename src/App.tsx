@@ -1,5 +1,5 @@
 import "./App.css";
-import { Navigation } from "./01-lazyload/components/Navigation";
+import { Navigation } from "./routes/Navigation";
 
 function App() {
   return (
